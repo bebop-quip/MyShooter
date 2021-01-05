@@ -1,2 +1,2 @@
 # MyShooter
-Zombie first person shooter game
+Zombie first person shooter game using UNITY
